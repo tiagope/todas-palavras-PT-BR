@@ -13,12 +13,12 @@ Há quatro versões:
 | **br-com-trema-latin1** | ISO-8859-1 (Latin-1)  | Preserva o trema de palavras como ```conseqüência```.
 | **br-latin1**           | ISO-8859-1 (Latin-1)  | O ```ü``` foi substituído por ```u``` pois o trema foi abolido pelo Acordo Ortográfico de 2009.
 | **br-utf8**             | UTF-8                 | Versão UTF-8 de **br-latin1**.
-| **br-sem-acentos**      | ASCII                 | Todos os sinais diacríticos de **br-utf8** foram removidos. Ex. ```ã``` foi substituído por ```a```.<br> A remoção dos sinais diacríticos produziu algumas palavras duplicadas que foram removidas e a lista foi colocada em ordem alfabética.<br>
-Adicionado cidades brasileiras.
+| **br-sem-acentos**      | ASCII                 | Todos os sinais diacríticos de **br-utf8** foram removidos. Ex. ```ã``` foi substituído por ```a```.<br> A remoção dos sinais diacríticos produziu algumas palavras duplicadas que foram removidas e a lista foi colocada em ordem alfabética.<br> Adicionado cidades brasileiras.
 
 ### Atualizações
 
-* Atualizado em 22/03/2022.
+* 25/09/2022 - Adicionado cidades brasileiras no arquivo **br-sem-acentos**.
+* 22/03/2022 - Dicionário atualizado.
 
 ### Fonte
 
